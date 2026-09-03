@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mario RL Agent
 
 A reinforcement learning agent (CNN + DQN/PPO) to play Super Mario Bros using gym-super-mario-bros and PyTorch.
@@ -112,6 +111,3 @@ See `requirements.txt` for the complete list:
 - The CNN in `models/cnn.py` is designed for 84x84 grayscale stacked frames
 - Checkpoints and TensorBoard logs are saved to their respective directories
 =======
-# mario-rl-agent
-Reinforcement learning agent that learns to play Super Mario Bros through trial and error, using a CNN + DQN built from scratch in PyTorch.
->>>>>>> origin/main
